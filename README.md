@@ -3,6 +3,10 @@
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/jp_mads)
 
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aspuma13@gmail.com)
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroMA&show_icons=true&theme=dracula)
 
 ### Ferramentos que utilizo ou já utilizei:
@@ -16,4 +20,13 @@
 
 
 </div>
+
+### Ferramentas que estou aprendendo
+
+<div style="display: inline_block"><br/>
+    <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    
+
+</div>
+
 
