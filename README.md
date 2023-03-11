@@ -2,7 +2,6 @@
 ### Olá, eu sou o João Pedro Martins, bem vindo ao meu perfil👋
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/jp_mads)
-
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aspuma13@gmail.com)
 
 
