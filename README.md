@@ -23,7 +23,7 @@
 ### Ferramentas que estou aprendendo
 
 <div style="display: inline_block"><br/>
-    <img alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="pytorch" src="[https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)"/>
     
 
 </div>
